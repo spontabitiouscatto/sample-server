@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 
 // 1) Mongoose configuration
-const db = "mongodb+srv://chiminh:minh2004@cluster0.znpzc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const db = "mongodb+srv://chiminh:minh2004@cluster0.znpzc.mongodb.net/coursework?retryWrites=true&w=majority&appName=Cluster0";
 mongoose.connect(db)
    .then(() => console.log('ok'))
    .catch((err) => console.error(err));

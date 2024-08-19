@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66b37c6d52046378603335a4"
+  },
+  "name": "Mathematics",
+  "description": "An introductory course on Mathematics.\nHave fun!",
+  "students": [
+    {
+      "$oid": "66b3808d52046378603335aa"
+    }
+  ],
+  "teachers": [
+    {
+      "$oid": "66b3808d52046378603335af"
+    },
+    {
+      "$oid": "66b89bbb023c21256a50d83f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66b37c6d52046378603335a5"
+  },
+  "name": "Physics",
+  "description": "A foundational course on Physics.",
+  "students": [
+    {
+      "$oid": "66b3808d52046378603335aa"
+    }
+  ],
+  "teachers": [
+    {
+      "$oid": "66b3808d52046378603335af"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66b37c6d52046378603335a6"
+  },
+  "name": "Chemistry",
+  "description": "An essential course on Chemistry.",
+  "students": [],
+  "teachers": [
+    {
+      "$oid": "66b3808d52046378603335af"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66b57cc195b3dab98236dd20"
+  },
+  "name": "Data Structure and Algorithms",
+  "description": "A compulsory course for Computer Science students",
+  "students": [],
+  "teachers": [
+    {
+      "$oid": "66b3808d52046378603335af"
+    }
+  ]
+}]

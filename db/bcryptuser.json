@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "66b3808d52046378603335aa"
+  },
+  "firstname": "Minh",
+  "lastname": "Nguyen Chi",
+  "birthday": {
+    "$date": "2004-08-04T00:00:00.000Z"
+  },
+  "role": "student",
+  "courses": [
+    {
+      "$oid": "66b37c6d52046378603335a4"
+    },
+    {
+      "$oid": "66b37c6d52046378603335a5"
+    },
+    {
+      "$oid": "66c24f9ebf56872ef72b65c2"
+    },
+    {
+      "$oid": "66c251fd02e44d05d9ae07af"
+    }
+  ],
+  "password": "$2b$10$Wit5CB6rlzGywBkOreAlJOf1PKkfolQ7fOIZ9B7grLoPweGvi4XS.",
+  "email": "minh.nguyen@example.com"
+},
+{
+  "_id": {
+    "$oid": "66b3808d52046378603335ab"
+  },
+  "firstname": "Jaden",
+  "lastname": "Smith",
+  "birthday": "1999-11-23",
+  "role": "student",
+  "courses": [],
+  "email": "jaden.smith@example.com",
+  "password": "$2a$10$ENNrTpPCxE9U2Vx7HXnmLuAB4wkZPPEG/2fziBpwQl/tlCwr13.j2"
+},
+{
+  "_id": {
+    "$oid": "66b3808d52046378603335ac"
+  },
+  "firstname": "Home",
+  "lastname": "Lander",
+  "birthday": {
+    "$date": "1985-08-19T00:00:00.000Z"
+  },
+  "role": "admin",
+  "email": "home.lander@example.com",
+  "password": "$2a$10$4C7rjFSk2rA4RY4Ldsk.8.24g1/GgnAV2XsYZaUCVb1.XAEE/mqSO",
+  "courses": []
+},
+{
+  "_id": {
+    "$oid": "66b3808d52046378603335ad"
+  },
+  "firstname": "Billy",
+  "lastname": "Butcher",
+  "birthday": "2001-02-07",
+  "role": "student",
+  "courses": [],
+  "email": "billy.butcher@example.com",
+  "password": "$2a$10$zezwUFjDpONaEgX1L59tX.Yahi75G5g5eyhfrPyXUHb2VqtisUFga"
+},
+{
+  "_id": {
+    "$oid": "66b3808d52046378603335ae"
+  },
+  "firstname": "John",
+  "lastname": "Doe",
+  "birthday": "1980-05-15",
+  "role": "teacher",
+  "courses": [],
+  "email": "john.doe@example.com",
+  "password": "$2a$10$ea79EMnPQZ9Fuz4Ht4WM.u9XYSdd1qRlUcWI6LIXGQiowXY65ZrZi"
+},
+{
+  "_id": {
+    "$oid": "66b3808d52046378603335af"
+  },
+  "firstname": "Jane",
+  "lastname": "Smith",
+  "birthday": "1985-10-25",
+  "role": "teacher",
+  "courses": [
+    {
+      "$oid": "66b37c6d52046378603335a4"
+    },
+    {
+      "$oid": "66b37c6d52046378603335a5"
+    },
+    {
+      "$oid": "66b57cc195b3dab98236dd20"
+    },
+    {
+      "$oid": "66b37c6d52046378603335a6"
+    }
+  ],
+  "email": "jane.smith@example.com",
+  "password": "$2a$10$tm2tjAm3p01B290cSv7gCusrF3kzoPov8Pz12EGiiCrzsO9GkR6ey"
+},
+{
+  "_id": {
+    "$oid": "66b48c9a1f491916de68079b"
+  },
+  "firstname": "hughie",
+  "lastname": "campbell",
+  "birthday": {
+    "$date": "2000-05-03T00:00:00.000Z"
+  },
+  "role": "student",
+  "courses": [],
+  "email": "hughie.campbell@example.com",
+  "password": "$2a$10$RibFeEP0cyLTudBIbnju7.GACiIAojemnu5ttHYhR99j8PSZwiDKa"
+},
+{
+  "_id": {
+    "$oid": "66b89bbb023c21256a50d83f"
+  },
+  "firstname": "omg",
+  "lastname": "notgood",
+  "birthday": {
+    "$date": "2024-08-03T00:00:00.000Z"
+  },
+  "role": "teacher",
+  "courses": [
+    {
+      "$oid": "66b37c6d52046378603335a4"
+    }
+  ],
+  "email": "add@mail.com",
+  "password": "$2a$10$UoNxCTN4T8s6ggIWkFkryO5.HXO5DnXNT4ai0oiGB3B/Cz04xagoC"
+},
+{
+  "_id": {
+    "$oid": "66b9f9937f3f173056044ac3"
+  },
+  "firstname": "final",
+  "lastname": "register",
+  "birthday": {
+    "$date": "2024-08-09T00:00:00.000Z"
+  },
+  "role": "student",
+  "courses": [],
+  "email": "lol@123",
+  "password": "$2a$10$hHZPI4C7.LpQn/AmeUIVyukTILox3CzPabiT9kqj5WVBDdCTKptWC"
+},
+{
+  "_id": {
+    "$oid": "66c05b4dff42876c93d5fce1"
+  },
+  "firstname": "stumail",
+  "lastname": "stupassword",
+  "birthday": {
+    "$date": "2024-08-05T00:00:00.000Z"
+  },
+  "role": "student",
+  "courses": [],
+  "email": "stu@123",
+  "password": "$2b$10$WU.JqRZ2lyx/wgl4sggTzu3NZwn5OZHZBDiWG221QRbpuMYWuhfMS"
+}]
